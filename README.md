@@ -1,5 +1,5 @@
 # AB_barcodes
-## Code to generate antibody barcodes (AB) compatible with Visium Spatial Transcriptomics.
+## Code to generate antibody barcodes compatible with Visium Spatial Transcriptomics.
 
 To allow for multiplexed protein profiling with DNA-conjugated antibodies using the Visium spatial gene expression solution from 10x genomics, AB barcodes that are not overlapping with the spatial barcodes needs to be generated to distinguish these 2 sets of barcodes.
 
