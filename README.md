@@ -5,8 +5,8 @@ To allow for multiplexed protein profiling with DNA-conjugated antibodies using 
 
 Here code has been generated for that purpose, specifically:
 * n randomly generated barcodes of l length (here 100 barcodes of 16 nucleotide length)
-* Hamming distance of at least 6 from any AB barcode to any Visium spatial barcode
-* Hamming distance of at least 7 from any AB barcode to any other AB barcode
+* Hamming distance of at least 6 between any AB barcode to any Visium spatial barcode
+* Hamming distance of at least 7 between any AB barcode to any other AB barcode
 * GC content within the same range as the Visium spatial barcodes (25%-75%)
 * No more than 3 consequtive bases for any AB barcode
 
